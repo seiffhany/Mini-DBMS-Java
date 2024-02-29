@@ -1,0 +1,4 @@
+TableName, ColumnName, ColumnType, ClusteringKey, IndexName, IndexType, min, max
+MyTable,age,java.lang.Integer,False,nameidageIndex,Octree,0,100
+MyTable,name,java.lang.String,False,nameidageIndex,Octree,A,ZZZZZ
+MyTable,id,java.lang.Integer,True,nameidageIndex,Octree,0,100
